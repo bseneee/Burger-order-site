@@ -1,0 +1,13 @@
+.HanBurgerMenu {
+  width: 40px;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  padding: 10px 0px;
+  box-sizing: border-box;
+}
+.HanBurgerMenu div {
+  background-color: white;
+  height: 3px;
+}
